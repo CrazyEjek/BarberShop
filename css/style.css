@@ -11,7 +11,7 @@ body {
     text-transform: uppercase;
 
     background-color: #000000;
-    background-image: url("/img/bg.jpg");
+    background-image: url("../img/bg.jpg");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: 150%;
@@ -626,6 +626,7 @@ body {
 }
 
 .user-navigation .login-link {
+    cursor: pointer;
     position: relative;
     padding-left: 50px;
 }
