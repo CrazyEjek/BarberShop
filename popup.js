@@ -52,6 +52,4 @@ window.addEventListener("keydown", function (evt) {
     }
 document.addEventListener("DOMContentLoaded", function(event) {
 init();
-
-});
-        
+}); 
